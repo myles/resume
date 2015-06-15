@@ -1,0 +1,118 @@
+{
+  "basic": {
+    "email": "me@mylesbraithwaite.com",
+    "label": "Web Developer",
+    "location": {
+      "address": "906-2235 Sheppard Ave. East",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "postalCode": "M2J 5B5",
+      "region": "Ontario"
+    },
+    "name": "Myles Braithwaite",
+    "profile": [
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/mylesb",
+        "username": "mylesb"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/myles",
+        "username": "myles"
+      },
+      {
+        "network": "Google+",
+        "url": "https://plus.google.com/+MylesBraithwaite",
+        "username": "MylesBraithwaite"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mylesbraithwaite",
+        "username": "mylesbraithwaite"
+      }
+    ],
+    "website": "http://mylesb.ca/"
+  },
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "LessCSS",
+        "SASS"
+      ],
+      "level": "Working Knowledge",
+      "name": "Web Development"
+    },
+    {
+      "keywords": [
+        "Python",
+        "Ruby",
+        "Java",
+        "Swift",
+        "Go",
+        "Node.js"
+      ],
+      "level": "Working Knowledge",
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "Flask",
+        "Django",
+        "Jekyll",
+        "Ruby on Rails"
+      ],
+      "level": "Working Knowledge",
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "SQLite"
+      ],
+      "level": "Working Knowledge",
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe Lightroom",
+        "Sketch",
+        "OmniGraffle",
+        "PixelMator"
+      ],
+      "level": "Basic Knowledge",
+      "name": "Graphic Design"
+    }
+  ],
+  "volunteer": [
+    {
+      "highlights": [
+        "Web Site Development and Design",
+        "Speaker Coordinator",
+        "Event Coordinator",
+        "Social Media"
+      ],
+      "organization": "GTALUG",
+      "position": "Volunteer & Board Member",
+      "startDate": "2008-10-14",
+      "summary": "Served as a Board Member and worked on web site development and design, speaker coordinator, and event coordintaor.",
+      "website": "http://gtlaug.org/"
+    }
+  ],
+  "work": [
+    {
+      "company": "Monkey in your Soul",
+      "highlights": "Started my own consulting company.",
+      "position": "President",
+      "startDate": "2006-02-01",
+      "summary": "Monkey in your Soul is my web and open source consulting company located in Toronto.",
+      "website": "http://monkeyinyoursoul.com/"
+    }
+  ]
+}
